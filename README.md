@@ -2,7 +2,7 @@
 lab-7---fsms-berberian-minas-snyder-chandler created by GitHub Classroom
 
 
- Testbench Screencap for dual sequence detector: ![dual_sequence_detector_capture](dual_sequence_detector_capture.png)
+ Testbench Screencap for dual sequence detector: ![dual_sequence_detector_capture](dual_sequence_detector_capture.PNG)
  
  Testbench screencap for even odd conseq: ![even_odd_conseq00_capture](even_odd_conseq00_capture.png)
  
